@@ -31,6 +31,10 @@ run_trial <- function(kh, lx_vs_kh, hk, lx_vs_hk, sample_size) {
     verdit = (kh_data - lx_vs_kh_data) - (hk_data - lx_vs_hk_data)
     verdit_rate = sum(verdit > 0)/trial_time * 100
     print(sprintf("面對賴蕭，柯侯 强於 侯柯 的概率：%.2f%%", verdit_rate))
+
+    verdit = (kh_data - lx_vs_kh_data) - (hk_data - lx_vs_hk_data) - sd
+    verdit_rate = sum(verdit > 0)/trial_time * 100
+    print(sprintf("面對賴蕭，柯侯 强於 侯柯 的概率：%.2f%% 修正", verdit_rate))
     print("")
 }
 
