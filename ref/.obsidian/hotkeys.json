@@ -1,0 +1,12 @@
+{
+  "obsidian-local-images:download-images": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ]
+}

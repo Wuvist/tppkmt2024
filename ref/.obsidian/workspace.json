@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "1a86f3689786e4f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9117bcbe740d8dd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df4ac3887fd78084",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tstm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "103057e768a0d3ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea92970d0021285f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9205bb9b934fc74a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5300ab085e7659f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5fbf73ee61f62589",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b1cb97af5430b1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "391de8ec5cc3d33c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb7081c5e0a72454",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tstm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "207d7d52e0a71bb1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tstm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19fad23f2fd024d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "169775e01e144da1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tstm.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "df4ac3887fd78084",
+  "lastOpenFiles": [
+    "media/CK_20240117053637822.png",
+    "media/CK_20240120125736002.png",
+    "media/PdIEQOWH34_qsSscmOCJrnv4XADf1GFzqCtnKr93jVy4Cj1vdjEqgFvIbKMtlOYzS1bh6kRSEzgUGNOS_PjLRrjgwanN7mhWElov.png",
+    "media/-mvBAHgE8vg8cQQTuHHjb1vmjvptULbaDwMN6ne_aqyzTfqx0pgP7u-u4FcuascwE6mNfNgv03AiRsTyu3I1YNfmlc_1KYDFlW8E.png",
+    "media/hzdzIZJP2Cns5dDLuy6ixjMlcg6sgjMNl8Xf95XGEUQHPTF1iwGp7RRlVz5aLgODepG9KXj0Syvl0AcPtnD2FKRo6hPnzmUzelDk.png",
+    "media/WeiNX7Q1t4Ujgagmio7iPLakFIg43XKxBazlSW6mRbvjufiDpHClKHzXzkPCBDROShY9KJ7KwfVsjQuoN-yzyaXGHwS8ICCvH0wP.png",
+    "media/LPl59wNMSPgM3NwrGlT1ibu6-b5qzRdHznTTE5YiEBS_n_Sf-yDGTKfFvzeJBw09hRJlGwDw5c8LKV9hNQVQCQodZnYxugMNT7C7.png",
+    "media/wu074q4nw73v927fQznPeuZ_mMcDFLSdDw5oRK9gfuPGLL3t9h35t6ItlCwrIrnH4F2FHXpecE0mN4fOV_jIhAHU3Uq_mNsjSIyf.png",
+    "media/y8GBouz-WoqzD0I_cLGlXqJRaQ5eH9n5Fhsq4GwDv8fc4MR0YREUs3uGnAnST6Jo5-Jnz2IcUF5-sKiWSzbzbGAVc8mPfKqKazLc.png",
+    "media/ZW08iLSwVdm4aeka4NgE17ls3DVpB-4TkSl9bdKsA2XSDrvJMe2hyaYbFNIUfZGcEK1l_wyFzEqY8JU-glCe-U_hb702LIGPIr3j.png",
+    "media"
+  ]
+}
